@@ -288,6 +288,10 @@ body {
   margin-right: 70px;
 }
 
+.tabs {
+  margin-bottom: 40px;
+}
+
 .tabs-item {
   margin-right: 40px;
   text-decoration: none;
