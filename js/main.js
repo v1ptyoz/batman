@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  let tabsItem = $('tabs-item');
+  let tabsItem = $('.tabs-item');
 
   tabsItem.on('click', function(event) {
     event.preventDefault();
